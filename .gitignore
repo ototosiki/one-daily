@@ -1,0 +1,17 @@
+# General
+.DS_Store
+.env
+*.log
+
+# Node
+node_modules/
+dist/
+
+# Docker
+*.pid
+
+# Frontend specific
+frontend/node_modules/
+frontend/.next
+frontend/dist
+frontend/.git
